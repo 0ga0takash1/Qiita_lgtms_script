@@ -4,4 +4,4 @@ Qiitaのアイコンのドロップアウト欄に「LGTMした記事一覧」�
 https://greasyfork.org/ja/scripts/411182-add-lgtms-link
 
 ダウンロード後の予想図としては、下図のようになります。
-https://user-images.githubusercontent.com/47769566/92769386-e262db80-f3d3-11ea-97cb-4c3345b10d61.png
+![image](https://user-images.githubusercontent.com/47769566/92769639-248c1d00-f3d4-11ea-81ba-97b501297d5c.png)
