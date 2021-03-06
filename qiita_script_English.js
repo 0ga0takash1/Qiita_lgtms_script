@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 {
-    // class名が「st-Header_dropdown」であるものの中のaタグをリストで収集
+    // class名が「st-RenewalHeader_dropdown」であるものの中のaタグをリストで収集
     const links = Array.from(
         document.querySelectorAll(".st-RenewalHeader_dropdown > a")
     );
