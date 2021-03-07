@@ -26,7 +26,7 @@
     const lgtms = document.createElement("a");
     lgtms.href = `${my_page_url}/lgtms`;
     lgtms.className = "st-RenewalHeader_dropdownItem";
-    lgtms.innerHTML = "LGTMした記事一覧";
+    lgtms.innerHTML = "LGTMした記事";
 
     // 挿入する
     before_element.parentNode.insertBefore(lgtms, before_element.nextElementSibling);
